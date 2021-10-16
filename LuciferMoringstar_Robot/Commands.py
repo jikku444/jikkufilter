@@ -81,7 +81,7 @@ async def start(bot, message):
                         print(e)
                         f_caption=f_caption
                 if f_caption is None:
-                    f_caption = f"{files.file_name}"
+                    f_caption = f"{files.file_name} \n @SpØ͢͢͢τ⚠© M𐍉vΐes❥ ™Lτᖙ CHATTING GROUP"
                 buttons = [
                     [
                         InlineKeyboardButton('🎖 our channel🎖', url="https://t.me/joinchat/rP2J5aSvTvk3YmM1")
